@@ -1,0 +1,14 @@
+mtllib bigplate.mtl
+
+v  -50  10000  10000
+v  -50 -10000  10000
+v  -50  10000 -10000
+v  -50 -10000 -10000
+# 4 vertices
+
+g A Huge Plate
+usemtl matl1
+f 1 2 3 
+f 2 3 4 
+# 2 faces
+
