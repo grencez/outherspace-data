@@ -1,0 +1,16 @@
+# Blender MTL File: 'bentlooptex.blend'
+# Material Count: 1
+newmtl Material_wave.jpg
+Ns 96.078431
+Ka 0.500000 0.500000 0.500000
+Kd 0.640000 0.640000 0.640000
+#Ks 0.293651 0.293651 0.293651
+#Ks 0.1 0.1 0.1
+Ks 0 0 0
+Ni 1.500000
+d 0.900000
+illum 2
+map_Ka wave.jpg
+map_Kd wave.jpg
+
+
