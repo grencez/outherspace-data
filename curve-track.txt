@@ -1,0 +1,16 @@
+
+checkplanes:curve-track_chk.txt
+
+scale  700
+
+#coords  right up forward
+model:curve-track.obj
+
+#coords  forward right up
+light  4 0 0
+#light  0 0 4
+#start  5 -3 1  0 1 0
+#start  6 -3 1  0 1 0
+
+sky:iras.png
+
