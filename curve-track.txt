@@ -1,6 +1,4 @@
 
-checkplanes:curve-track_chk.txt
-
 scale  700
 
 #coords  for up right
@@ -8,6 +6,9 @@ coords  right up back
 model:curve-track.obj
 
 coords  right for up
+
+checkplanes:curve-track_chk.txt
+
 light  0 0 4
 start  5 -3 1  0 1 0
 start  6 -3 1  0 1 0
