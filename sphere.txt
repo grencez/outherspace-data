@@ -1,0 +1,22 @@
+
+scale  50
+
+coords up right for
+light  -61 51 -84
+start  15 0 0  0 0 1
+
+coords  right for up
+model:sphere.obj
+loc   0  40  0
+concat-model:sphere.obj
+loc   0 -40  0
+concat-model:sphere.obj
+loc  40  0   0
+concat-model:sphere.obj
+loc -40  0   0
+concat-model:sphere.obj
+loc   0  0  40
+concat-model:sphere.obj
+loc   0  0 -40
+concat-model:sphere.obj
+

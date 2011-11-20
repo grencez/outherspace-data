@@ -1,0 +1,11 @@
+
+scale  100
+
+coords  right for up
+model:reflection.obj
+
+scale 1
+coords up right for
+light  -612 519 -843
+start  64 3553 645  0 0 1
+
