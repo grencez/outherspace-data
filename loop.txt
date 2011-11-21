@@ -1,0 +1,15 @@
+
+scale  900
+
+coords  right up back
+model:loop.obj
+model:bentloop.obj
+
+coords  right for up
+light  -1.356 -1.8611 6.6710
+start  1 0 1  -1 0 0
+
+checkplanes:loop_chk.txt
+
+sky:iras.png
+
