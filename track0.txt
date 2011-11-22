@@ -1,0 +1,13 @@
+
+scale  900
+
+coords  right up back
+model:track0.obj
+
+coords  right for up
+light  0 0 5
+start  0 0 1  1 0 0
+
+#sky:gradient-sky.ppm
+sky:iras.png
+

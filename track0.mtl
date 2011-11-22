@@ -1,0 +1,14 @@
+# Blender MTL File: 'track0.blend'
+# Material Count: 1
+newmtl wire_229166215_road0.jpg
+Ns 96.078431
+Ka 0.200000 0.200000 0.200000
+Kd 0.718400 0.520800 0.674480
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1
+illum 2
+map_Ka road0.jpg
+map_Kd road0.jpg
+
+
