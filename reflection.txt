@@ -1,10 +1,11 @@
 
-scale  100
+scale  1
 
-coords  right for up
+coords  right up back
 model:reflection.obj
 
-coords up right for
-light  1 5.19 -8.43
-start  .64 35.53 6.45  0 0 1
+coords for up right
+light -13 9.2 .6
+start -13 9.2 .6 0.85424 -0.484386 -0.188799
+
 
