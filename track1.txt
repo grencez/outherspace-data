@@ -1,0 +1,13 @@
+
+scale  3
+
+coords  up right for
+model:track1.obj
+
+coords  right for up
+
+light  0 0 7
+start  0 0 1  1 0 0
+
+sky:gradient-sky.ppm
+

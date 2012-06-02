@@ -7,9 +7,15 @@ model:bentloop.obj
 
 coords  right for up
 light  -1.356 -1.8611 6.6710
-start  1 0 1  -1 0 0
+
+#start  1 0 1  -1 0 0
 
 checkplanes:loop_chk.txt
 
-sky:iras.png
+#sky:iras.png
+#sky:gradient-sky.png
+sky:gradient-sky.ppm
 
+coords up right for
+scale 1
+start 102.181168 -134.132965 -1263.484619  -0.168222 0.268784 -0.948397
